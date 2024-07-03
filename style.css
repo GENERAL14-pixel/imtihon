@@ -1,0 +1,139 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .container {
+    max-width: 1090px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  .header {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+  .first_container {
+    width: 1322px;
+    height: 91px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  a{
+    text-decoration: none;
+    margin-left: 20px;
+    font-weight: 100px;
+    color: #737373;
+  }
+  .second_container {
+    margin-left: -50px;
+  }
+  .button {
+    width: 500px;
+    height: -50px;
+    align-items: center;
+  }
+  .container_button {
+    width: 137px;
+    height: 54px;
+    border: 0;
+    background-color: #96BB7C;
+    color: white;
+    border-radius: 5px;
+    margin-right: 30px;
+    margin-left: 20px;
+  }
+  .section {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    background-color: #FAFAFA;
+  }
+  .first_section {
+    width: 1044px;
+    height: 401px;
+    margin-top: 50px;
+    display: flex;
+  }
+  .second_text {
+    width: 599px;
+    height: 401px;
+  }
+  .img_png {
+    width: 445px;
+    height: 401px;
+    margin-left: -200px;
+    background-image: url(./img/background.png);
+    background-position: -200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .button_top {
+    width: 193px;
+    height: 52px;
+    border-radius: 5px;
+    background-color: #96BB7C;
+    color: white;
+    border: 0;
+  }
+  .button_box {
+    width: 162px;
+    height: 52px;
+    border-radius: 5px;
+    border: 2px solid #96BB7C;
+    margin-left: 10px;
+    color: #96BB7C;
+    background-color: white;
+  }
+  .section_tree {
+    width: 1046px;
+    height: 296px;
+    display: flex;
+    margin-top: 30px;
+  }
+  .tree_one {
+    width: 328px;
+    height: 296px;
+    padding: 20px;
+    box-shadow: 0px 13px 19px 0px #00000012;
+  }
+  .line {
+    width: 100px;
+    height: 3px;
+    background-color: #E74040;
+    margin-top: 15px;
+    margin-left: -0px;
+  }
+  .div_box {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    background-color: white;
+  }
+  .crypto_currency {
+    width: 1050px;
+    height: 264px;
+    margin-top: 30px;
+  }
+  .first_div {
+    width: 1049px;
+    height: 104px;
+    margin-top: 132px;
+    display: flex;
+  }
+  .top_div {
+    width: 1040px;
+    height: 726px;
+    background-color: #ffffff;
+    display: flex;
+  }
+  .box {
+    width: 1040px;
+    height: 1156px;
+    margin-top: -250px;
+    margin-right: 450px;
+  }
+  .top_botom {
+    background-color: #FFF2F3;
+  }
